@@ -4,10 +4,10 @@
 
 The Productivity Tracker Chrome Extension is a powerful tool designed to help you take control of your digital life. This extension provides essential features to monitor and manage your online activities, fostering a more productive and mindful online experience.
 
-![Screenshot (95)](https://github.com/Jitendrasingh09/productivity-tracker/assets/102428471/1af6cac4-5a2d-416a-9e6a-576e5ef94168)
-![Screenshot (96)](https://github.com/Jitendrasingh09/productivity-tracker/assets/102428471/50d20fb4-9a12-43e3-90b4-810ce5da2d94)
-![Screenshot (97)](https://github.com/Jitendrasingh09/productivity-tracker/assets/102428471/0d3f2bf7-7a86-48d6-9d7c-973c57d45578)
-![Screenshot (98)](https://github.com/Jitendrasingh09/productivity-tracker/assets/102428471/43420059-241c-4921-a6af-4b7637525093)
+![Screenshot (95)](https://github.com/Dhanush-Ma/Productivity-Tracker/assets/102428471/1af6cac4-5a2d-416a-9e6a-576e5ef94168)
+![Screenshot (96)](https://github.com/Dhanush-Ma/Productivity-Tracker/assets/102428471/50d20fb4-9a12-43e3-90b4-810ce5da2d94)
+![Screenshot (97)](https://github.com/Dhanush-Ma/Productivity-Tracker/assets/102428471/0d3f2bf7-7a86-48d6-9d7c-973c57d45578)
+![Screenshot (98)](https://github.com/Dhanush-Ma/Productivity-Tracker/assets/102428471/43420059-241c-4921-a6af-4b7637525093)
 
 
 ## Features
